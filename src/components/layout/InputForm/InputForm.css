@@ -1,0 +1,13 @@
+form {
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 3rem;
+    
+}
+form div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
